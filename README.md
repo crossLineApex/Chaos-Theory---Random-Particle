@@ -14,7 +14,7 @@ similarly when the dice shows a 3 or 4
    
 We continue the above process for n iterations and see a pattern.
 
-This pattern or shape is called as 'Sierpinski Gasket/Triangle'.
+This pattern or shape is called as 'Sierpinski Carpet/Triangle'.
 This project uses just 3 points A,B,C for a simple demonstration. Any number of points can be used for the demonstration. 
 
 This shows how a simple set of rules and randomness can lead to fractal patterns.
